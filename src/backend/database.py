@@ -122,8 +122,8 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Step into the pages of Japanese manga, meet unforgettable heroes, and share your favorite graphic novel adventures with fellow fans.",
-        "schedule": "Tuesdays, 7:00 PM",
-        "max_participants": 15,
+        "schedule": "Tuesdays, 5:00 PM",
+        "max_participants": 25,
         "participants": []
     },
     "Debate Team": {
